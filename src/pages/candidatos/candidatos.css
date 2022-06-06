@@ -1,0 +1,110 @@
+
+.candidatos-app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-candidatos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-candidatos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+.candidatos-btn{
+    display: flex;
+    justify-content: flex-end;
+   
+    
+}
+.btn-ver{
+    background: linear-gradient(91.76deg, #D42F43 0%, #D3823E 100%), #D9D9D9;
+    border-radius: 14px;
+    border: none;
+    margin-bottom:14px;
+    width: 160.84px;
+    height: 35px;
+    left: 983px;
+    top: 294px;
+}
+.retangulo-container{
+    display: flex;
+    width: 998px;
+    height: 1296px;
+    left: 221px;
+    top: 88px;
+    margin-top:88px;
+    margin-bottom:111px;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px rgba(0, 0, 0, 0.25);
+    border-radius: 70px;
+}
+
+.titulo-candidatos{
+    margin-top: 87px;
+    margin-left:62px;
+    margin-bottom:57px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #767474;
+}
+
+
+.row-candidatos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nome-candidatos{
+    margin-top:5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color:#767474;
+
+}
+.candidatos{
+    display: flex;
+    justify-content: space-between;
+    width: 896px;
+    height: 63px;
+    left: 272px;
+    top: 280px;
+
+    background: #F3F3F3;
+    border-radius: 10px;
+}
+.candidatos-2{
+    display: flex;
+    justify-content: space-between;
+    width: 896px;
+    height: 63px;
+    left: 272px;
+    top: 280px;
+    border-radius: 10px;
+}
+
+.button-voltar{
+    width: 216.84px;
+    height: 68px;
+    left: 280px;
+    top: 1267px;
+    margin-left:59px;
+    background: linear-gradient(91.76deg, #D42F43 0%, #D3823E 100%), #D9D9D9;
+    border-radius: 14px;
+    border:none;
+}
+
+.footer-candidatos{
+    position: absolute;
+    display: flex;
+    margin-top: 1170px;
+}
